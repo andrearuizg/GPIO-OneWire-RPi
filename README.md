@@ -6,15 +6,11 @@ En este repositorio se tiene como objetivo desarrollar el uso de los puertos GPI
 
 Para el manejo de los puertos GPIO, se uso el pin físico 11, BCM 17 y WiringPi 0. 
 
-[<p align="center">
-<img src="https://github.com/andrearuizg/GPIO-OneWire-RPi/blob/main/images/gpio.png" alt="drawing" width="400"/>  
-</p>](https://pinout.xyz/pinout/wiringpi#)
+[<p align="center"> <img src="https://github.com/andrearuizg/GPIO-OneWire-RPi/blob/main/images/gpio.png" alt="drawing" width="400"/> </p>](https://pinout.xyz/pinout/wiringpi#)
 
 En el caso de OneWire se usó el pin físico 7, BCM 4.
 
-[<p align="center">
-<img src="https://github.com/andrearuizg/GPIO-OneWire-RPi/blob/main/images/ow.png" alt="drawing" width="400"/>  
-</p>](https://pinout.xyz/pinout/1_wire#)
+[<p align="center"> <img src="https://github.com/andrearuizg/GPIO-OneWire-RPi/blob/main/images/ow.png" alt="drawing" width="400"/> </p>](https://pinout.xyz/pinout/1_wire#)
 
 ### Contenidos
 
@@ -52,11 +48,7 @@ bash ./led.sh
 bash ./temp.sh
 ```
 
-<p align="center">
-<img src="https://github.com/diegoavellanedat17/SistemasEmbebidos_proyecto1/blob/main/Sensor.jpeg" alt="drawing" width="1000"/>  
-</p>
-
 ### Desarrollado por
 
-- :computer: [Andrea Juliana Ruiz Gómez](https://github.com/andrearuizg)
+- :sparkles: [Andrea Juliana Ruiz Gómez](https://github.com/andrearuizg)
 
