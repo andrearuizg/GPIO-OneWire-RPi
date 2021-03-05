@@ -1,7 +1,7 @@
 #include <wiringPi.h> 
 
 // GPIO 17, WiringPi 0
-const int ledPin = 0; 
+const int ledPin = 17; 
 
 int main(void)
 {
